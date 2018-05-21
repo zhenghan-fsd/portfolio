@@ -14,7 +14,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "add": "^2.0.6",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^15.0.1",
     "eslint-config-prettier": "^2.9.0",
@@ -22,7 +21,6 @@
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-react": "^7.8.2",
-    "prettier": "^1.12.1",
-    "yarn": "^1.6.0"
+    "prettier": "^1.12.1"
   }
 }
