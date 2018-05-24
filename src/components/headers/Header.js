@@ -5,7 +5,7 @@ const Header = () => (
   <div id="header" className="header">
     <div className="container">
       <div className="row">
-        <div className="col-lg-6 col-md-6">
+        <div className="col-lg-6 col-md-6 wow bounceInLeft">
           <h1>泉联金服</h1>
           <p />
           <p>
@@ -14,7 +14,7 @@ const Header = () => (
           <button className="btn btn-lg btn-primary">Buy Now</button>{" "}
           <button className="btn btn-lg btn-success">View Detail</button>
         </div>
-        <div className="col-lg-6 col-md-6">
+        <div className="col-lg-6 col-md-6 wow bounceInRight">
           <img src={appImage} alt="logo" />
         </div>
       </div>
